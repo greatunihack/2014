@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8eefaa9-59ee-4a8e-ba2b-5f88d9a54de6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/script.js" afterPath="$PROJECT_DIR$/scripts/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="2014.greatunihack.co.uk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8823528">
-              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.35168195">
+              <caret line="74" column="68" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -81,8 +81,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scripts/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -256,14 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8823528">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sponsorship.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -284,6 +276,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4966" selection-start-line="0" selection-start-column="4966" selection-end-line="0" selection-end-column="4966" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35168195">
+          <caret line="74" column="68" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
           <folding />
         </state>
       </provider>
